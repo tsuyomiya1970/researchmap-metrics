@@ -51,7 +51,7 @@ Last updated: 2026/5/19 (v1.14.20)
 
 ### 問い合わせ
 
-本プライバシーポリシーに関するお問い合わせは、拡張機能の開発者 (宮川 剛、藤田医科大学、ORCID: [0000-0003-0137-8200](https://orcid.org/0000-0003-0137-8200)、tsuyoshimiyakawa@gmail.com) まで。
+本プライバシーポリシーに関するお問い合わせは、拡張機能の開発者 (宮川 剛、藤田医科大学、ORCID: [0000-0003-0137-8200](https://orcid.org/0000-0003-0137-8200)、miyakawa@fujita-hu.ac.jp) まで。
 
 ---
 
@@ -100,4 +100,4 @@ The local cache is stored only on the user's local device and is never transmitt
 
 ### Contact
 
-For questions regarding this privacy policy, please contact the extension developer: Tsuyoshi Miyakawa (Fujita Health University, ORCID: [0000-0003-0137-8200](https://orcid.org/0000-0003-0137-8200), tsuyoshimiyakawa@gmail.com).
+For questions regarding this privacy policy, please contact the extension developer: Tsuyoshi Miyakawa (Fujita Health University, ORCID: [0000-0003-0137-8200](https://orcid.org/0000-0003-0137-8200), miyakawa@fujita-hu.ac.jp).
